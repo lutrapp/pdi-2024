@@ -1,4 +1,4 @@
-package com.lutrapp.solve_questions.algorithms_data_structure;
+package algorithms_data_structure;
 
 import java.util.List;
 
